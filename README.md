@@ -12,3 +12,5 @@ molecular dynamics of a constant-potential molten FLiBe interface.
 
 FLiNaK_inputs folder contains the input scripts, data file, and tabular potentials required to run 
 molecular dynamics of a constant-potential molten FLiNaK interface.
+
+For details on how polarization is modeled in the salts see https://doi.org/10.1021/acs.jpca.0c06721
